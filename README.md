@@ -1,6 +1,6 @@
 # pilot-scores
 
-Opt-in score drop box for the [pilot](https://github.com/shorconsulting/pilot) Claude Code mod. Anyone running pilot can publish their weekly scores here with `/pilot share`, and compare against any published engineer or the team median with `/pilot compare <github-login>` or `/pilot compare team`.
+Opt-in score drop box for the [pilot](https://github.com/ShorConsultingInc/pilot) Claude Code mod. Anyone running pilot can publish their weekly scores here with `/pilot share`, and compare against any published engineer or the team median with `/pilot compare <github-login>` or `/pilot compare team`.
 
 **What is shared:** five scores (0-100) per time window, plus their prior-window baselines. No prompts, no code, no file names, no project names, no token counts. See a sample in `scores/`.
 
