@@ -1,0 +1,94 @@
+{
+ "login": "team",
+ "people": 1,
+ "windows": {
+  "7": {
+   "brief": {
+    "score": 60,
+    "baseline": null
+   },
+   "verify": {
+    "score": 37,
+    "baseline": null
+   },
+   "context": {
+    "score": 64,
+    "baseline": null
+   },
+   "delegate": {
+    "score": 0,
+    "baseline": null
+   },
+   "flow": {
+    "score": 87,
+    "baseline": null
+   }
+  },
+  "14": {
+   "brief": {
+    "score": null,
+    "baseline": null
+   },
+   "verify": {
+    "score": null,
+    "baseline": null
+   },
+   "context": {
+    "score": null,
+    "baseline": null
+   },
+   "delegate": {
+    "score": null,
+    "baseline": null
+   },
+   "flow": {
+    "score": null,
+    "baseline": null
+   }
+  },
+  "30": {
+   "brief": {
+    "score": null,
+    "baseline": null
+   },
+   "verify": {
+    "score": null,
+    "baseline": null
+   },
+   "context": {
+    "score": null,
+    "baseline": null
+   },
+   "delegate": {
+    "score": null,
+    "baseline": null
+   },
+   "flow": {
+    "score": null,
+    "baseline": null
+   }
+  },
+  "60": {
+   "brief": {
+    "score": null,
+    "baseline": null
+   },
+   "verify": {
+    "score": null,
+    "baseline": null
+   },
+   "context": {
+    "score": null,
+    "baseline": null
+   },
+   "delegate": {
+    "score": null,
+    "baseline": null
+   },
+   "flow": {
+    "score": null,
+    "baseline": null
+   }
+  }
+ }
+}
