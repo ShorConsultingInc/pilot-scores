@@ -1,26 +1,26 @@
 {
  "login": "team",
- "people": 1,
+ "people": 0,
  "windows": {
   "7": {
    "brief": {
-    "score": 60,
+    "score": null,
     "baseline": null
    },
    "verify": {
-    "score": 37,
+    "score": null,
     "baseline": null
    },
    "context": {
-    "score": 64,
+    "score": null,
     "baseline": null
    },
    "delegate": {
-    "score": 0,
+    "score": null,
     "baseline": null
    },
    "flow": {
-    "score": 87,
+    "score": null,
     "baseline": null
    }
   },
